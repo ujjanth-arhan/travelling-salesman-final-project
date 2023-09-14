@@ -29,5 +29,6 @@ For every driver class there is a corresponding csv file generated in the root d
 ### Visualization
 - Run **TSPMainVisualization.java** class from the *driver* package to see a simulation of the whole algorithm
 
-# travelling-salesman-final-project
-# travelling-salesman-final-project
+### Credits:
+Ujjanth Arhan (https://www.linkedin.com/in/ujjanth-arhan/), Raja Shekar (https://www.linkedin.com/in/raja-shekar-reddy/) and Venkat Pavan Munaganti (https://www.linkedin.com/in/pavan-munaganti/)
+
